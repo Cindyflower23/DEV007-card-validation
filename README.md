@@ -34,13 +34,24 @@ Contiene:
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/cd248a87f3871374c3ab8fbe6f55c6f23d03fd5b/Titulo_interfaz.PNG )
 
 ### Seccion Bienvenida
-![]( )
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/f05699d4b280369c94089c909c0a8520568f212a/bienvenidointerfaz.PNG )
+
+### Seccion Formulario
+
+![]()
 
 
 
 
+<p>
+Partes del formulario:
+</p>
 
+##### Seccion Ingreso de Numero de Tarjeta
 
+![]()
+
+##### Seccion Ingreso de Numero de Tarjeta
 
 
 
