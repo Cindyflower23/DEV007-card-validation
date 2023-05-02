@@ -44,9 +44,11 @@ Partes del formulario:
 
 ##### a) Ingreso de Numero de Tarjeta
 
-![]()
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/2d91273f2ba148b1f3c5c99b5e13ea665e56beaa/IngresoNumTarjeta.PNG)
 
-##### b)Ingreso de Numero de Tarjeta
+##### b)Ingreso de Titular de la Tarjeta
+
+![]()
 
 
 
