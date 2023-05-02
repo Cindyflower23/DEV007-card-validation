@@ -55,7 +55,7 @@ Partes del formulario:
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/9cefc64b5f0639d24401049c22e6fcc019f325fb/buttoninterfaz.PNG)
 
 ##### c)Mensaje TARJETA VÁLIDA o TARJETA INVÁLIDA
-![](
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/9295e597e621bf3f68d2aa2efae968c7e17bdf8e/imagvalidacard.PNG)
 
 
 
