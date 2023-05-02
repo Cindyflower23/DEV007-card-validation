@@ -1,3 +1,69 @@
+
+# PRIMER PROYECTO- CARD VALIDATION
+
+#### Objetivo
+========================================
+
+<p>
+El objetivo del siguiente proyecto es crear una interfaz de pago con tarjeta de crédito usando HTML, CSS Y JAVASCRIPT , no se permite el uso de librerias, ni frameworks para realizar esta interfaz. 
+
+Esta interfaz ha sido creada para una tienda dermocosmética llamada Dermoshopping Store
+</p>
+
+# Parte Visual
+<p>
+Contiene:
+  
+</p>
+
+- Título principal
+- Tres imágenes enformato jpeg
+-  Sección  Bienvenida donde muestra el nombre de la persona que ingresa
+-  Sección de ingreso del numero de tarjeta de crédito
+-  Muestra de un botton para validar la tarjeta
+
+<p>
+  Partes de la interfaz
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Tarjeta de crédito válida
 
 ## Índice
