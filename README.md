@@ -38,16 +38,13 @@ Contiene:
 
 ### Seccion Formulario
 
-![](https://github.com/Cindyflower23/DEV007-card-validation/blob/9caef7f8ae52e1dc687dfd8a0d2ebedce4198e3a/bienvenidointerfaz.PNG)
-<p>
 Partes del formulario:
-</p>
 
-##### Seccion Ingreso de Numero de Tarjeta
+##### a) Ingreso de Numero de Tarjeta
 
 ![]()
 
-##### Seccion Ingreso de Numero de Tarjeta
+##### b)Ingreso de Numero de Tarjeta
 
 
 
