@@ -31,8 +31,10 @@ Contiene:
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/d4871a47d79f17385d1ae53e76101b882f001ab1/PORTADA%20FINAL%20CCARD.PNG)
 
 ### Imagen Título
-![](  )
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/cd248a87f3871374c3ab8fbe6f55c6f23d03fd5b/Titulo_interfaz.PNG )
 
+### Seccion Bienvenida
+![]( )
 
 
 
