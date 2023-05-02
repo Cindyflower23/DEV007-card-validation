@@ -52,7 +52,11 @@ Partes del formulario:
 
 ##### c)Botón VALIDATE
 
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/9cefc64b5f0639d24401049c22e6fcc019f325fb/buttoninterfaz.PNG)
+
+##### c)Botón VALIDATE
 ![](
+
 
 
 
