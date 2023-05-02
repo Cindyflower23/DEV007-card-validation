@@ -21,6 +21,8 @@ Contiene:
 -  Sección  Bienvenida donde muestra el nombre de la persona que ingresa
 -  Sección de ingreso del numero de tarjeta de crédito
 -  Muestra de un botton para validar la tarjeta
+-  Mensaje si es TARJETA VÁLIDA O TARJETA INVÁLIDA
+
 
 <p>
   Partes de la interfaz
