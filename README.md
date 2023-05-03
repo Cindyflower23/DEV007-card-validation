@@ -80,15 +80,20 @@ Partes del formulario:
 ##### Paso5) Se mostrará el mensaje de Tarjeta VÁLIDA O INVÁLIDA
 
   <p>
-  A) Si la tarjeta es válida se enmascarán todas los números excepto los 4 últimos . En caso sea un número de tarjeta erróneo no se enmascararan los números
+   A) Si la tarjeta es válida se enmascarán todas los números excepto los 4 últimos . En caso sea un número de tarjeta erróneo no se enmascararan los números.
+  
   </p>
   
- ![]( 
+   ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/4a6ccb8962addc505bc7ce42e9b470801b77c3af/MASKVALID.png)
+   
+  <p>
+  B) El resultado final será el siguiente : 
   
-  B) El resulatdo final será el siguiente
+  </p>
   
-![](https://user-images.githubusercontent.com/129694253/235815125-0ddc0e80-272f-43fa-9ce3-d96b93fb6671.png)
-
+ ![](https://user-images.githubusercontent.com/129694253/235815125-0ddc0e80-272f-43fa-9ce3-d96b93fb6671.png)
+ 
+  
 
 
 
