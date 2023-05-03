@@ -61,6 +61,9 @@ Partes del formulario:
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/24841ab1db574905b99a1bf236c7ee18175dd14f/imagenformulario.PNG)
 
 
+# INSTRUCCIONES PARA EL USUARIO(A)
+
+
 
 
 
