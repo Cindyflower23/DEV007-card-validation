@@ -69,6 +69,7 @@ Partes del formulario:
 
 ##### Paso2)Ingrese el Nombre del Titular
 
+![]()
 
 
 ![]()
