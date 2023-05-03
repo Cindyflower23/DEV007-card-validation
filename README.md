@@ -63,8 +63,7 @@ Partes del formulario:
 
 # INSTRUCCIONES PARA EL USUARIO(A)
 
-DKFNDKFNLKDFKDFLDFNK
-
+ Entrando a la interfaz , ingrese el numero de tarjeta 
 
 
 
