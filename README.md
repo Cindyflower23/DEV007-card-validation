@@ -63,9 +63,13 @@ Partes del formulario:
 
 # INSTRUCCIONES PARA EL USUARIO(A)
 
- Entrando a la interfaz , ingrese el numero de tarjeta 
+PASO1) Entrando a la interfaz , ingrese el numero de tarjeta 
 
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/24841ab1db574905b99a1bf236c7ee18175dd14f/imagenformulario.PNG)
 
+PASO2) Ingrese el nombre del Titular de la Tarjeta
+
+![]()
 
 
 
