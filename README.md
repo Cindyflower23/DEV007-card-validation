@@ -63,9 +63,9 @@ Partes del formulario:
 
 # INSTRUCCIONES PARA EL USUARIO(A)
 
-PASO1) Entrando a la interfaz , ingrese el numero de tarjeta 
+PASO1) Entrando a la interfaz , ingrese el Numero de tarjeta 
 
-![](
+![]()
 
 PASO2) Ingrese el nombre del Titular de la Tarjeta
 
