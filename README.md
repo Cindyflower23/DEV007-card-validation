@@ -75,7 +75,14 @@ Partes del formulario:
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/575c24985dfef01967a05e0a3c01ba3d60f7cf43/bienAnggie.png)
 
 ##### Paso4) Presion el botón VALIDATE
-![](
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/7b550d174024f98e548bbd19ffe8ff5bc4115677/VALIDATEBUTTON.png)
+
+##### Paso5) Se mostrará el mensaje de Tarjeta VALIDA O INVALIDA
+![]()
+
+
+
+
 
 
 
