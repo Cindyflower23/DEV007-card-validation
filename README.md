@@ -94,10 +94,16 @@ Partes del formulario:
  ![](https://user-images.githubusercontent.com/129694253/235815125-0ddc0e80-272f-43fa-9ce3-d96b93fb6671.png)
  
   
-H1 FUNCIONALIDAD DEL PROYECTO CREDIT CARD
-=============
+FUNCIONALIDAD DEL PROYECTO CREDIT CARD
+==============================
 
+<p>
+  
+El objeto VALIDATOR consta de dos funciones isValid y maskify.
 
+La función isValid comprobará que se cumpla el TEOREMA DE LUHM  y la función maskify enmascarará todos los digitos de la tarjeta de crédito excepto los cuatro últimos dígitos.
+
+</p>
 
 
 
