@@ -77,8 +77,15 @@ Partes del formulario:
 ##### Paso4) Presion el botón VALIDATE
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/7b550d174024f98e548bbd19ffe8ff5bc4115677/VALIDATEBUTTON.png)
 
-##### Paso5) Se mostrará el mensaje de Tarjeta VALIDA O INVALIDA
-![](![image](https://user-images.githubusercontent.com/129694253/235815125-0ddc0e80-272f-43fa-9ce3-d96b93fb6671.png)
+##### Paso5) Se mostrará el mensaje de Tarjeta VÁLIDA O INVÁLIDA
+
+  A) Si la tarjeta es valida se enmascarara todas los numeros excepto los 4 ultimos . En caso sea un número de tarjeta erróneo no se enmascararan los números
+  
+ ![]( 
+  
+  B) El resulatdo final será el siguiente
+  
+![](https://user-images.githubusercontent.com/129694253/235815125-0ddc0e80-272f-43fa-9ce3-d96b93fb6671.png)
 
 
 
