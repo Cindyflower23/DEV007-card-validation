@@ -79,7 +79,9 @@ Partes del formulario:
 
 ##### Paso5) Se mostrará el mensaje de Tarjeta VÁLIDA O INVÁLIDA
 
-  A) Si la tarjeta es valida se enmascarara todas los numeros excepto los 4 ultimos . En caso sea un número de tarjeta erróneo no se enmascararan los números
+  <p>
+  A) Si la tarjeta es válida se enmascarán todas los números excepto los 4 últimos . En caso sea un número de tarjeta erróneo no se enmascararan los números
+  </p>
   
  ![]( 
   
