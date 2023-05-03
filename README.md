@@ -72,8 +72,10 @@ Partes del formulario:
 ![](https://github.com/Cindyflower23/DEV007-card-validation/blob/0c458c9ee7b8d3d239fee906d7a57226eafad1fc/TITUTARJETA.png)
 
 ##### Paso3) Se mostrará el texto "Bienvenido: " + el nombre del titular de la tarjeta
-![]()
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/575c24985dfef01967a05e0a3c01ba3d60f7cf43/bienAnggie.png)
 
+##### Paso4) Presion el botón VALIDATE
+![](
 
 
 
