@@ -1,14 +1,63 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>Tarjeta de crédito válida</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+ <div class="fondoimagenes">
+
+  <img src="imagenes/sombrastudio.jpg" class="img01"  alt="">
+
+
+   <img src="imagenes/chinita.jpg"  class="img02"  alt="">
+
+
+  <img src="imagenes/imagensorg.jpg" class="img03"  alt=""> 
+
+ </div>
+
+
+  <main>
+    <div class="container">
+      
+      <h1 class="titulo">DermoShopping Store</h1>
+      <h2 class="welcome" id="wlc"> Bienvenido :        </h2>
+      <p id="message_1"> </p>
+
+      <form class="form" id="form">
+
+        <h3> INGRESE SUS DATOS </h3>
+        <div class="inputBox">
+          <span> Numero de tarjeta </span>
+          <input type="text" maxlength="13" name="numeros" class="card-number-input" id="userNum" >
+        </div>
+
+        <div class="inputBox">
+          <span>Titular de la tarjeta </span>
+          <input type="text" id="userName" class=" car-holder-input">
+        </div>
+
+
+        <div class="validate-btn">
+          <input type="button" id="button-text" value="Validate" >
+        </div>
+
+        <div class="evaluateMessage">
+          <p id="message"> </p>
+        </div>
+
+
+      </form>                                                  
+
+    </div>
+  </main>
+  <footer></footer>
+  <script src="index.js" type="module"></script>
+
+</body>
+
 </html>
