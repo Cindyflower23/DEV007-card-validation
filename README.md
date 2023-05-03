@@ -69,9 +69,9 @@ Partes del formulario:
 
 ##### Paso2)Ingrese el Nombre del Titular
 
-![]()
+![](https://github.com/Cindyflower23/DEV007-card-validation/blob/0c458c9ee7b8d3d239fee906d7a57226eafad1fc/TITUTARJETA.png)
 
-
+##### Paso3) Se mostrará el texto "Bienvenido: " + el nombre del titular de la tarjeta
 ![]()
 
 
